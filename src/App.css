@@ -1,0 +1,29 @@
+.App {
+  background-image:
+          url("https://www.universetoday.com/wp-content/uploads/2018/08/cropped-delta_iv_heavy_streak_composite_edits.jpg");
+  margin: 5px;
+  height: 100vh;
+}
+
+.app-extended {
+  background-image: url("https://cdn.mos.cms.futurecdn.net/hhGzSc6JDugJUXezYWgJyb-602-80.jpg");
+}
+
+.container-fluid-top {
+  height: 90vh;
+}
+
+.container-fluid-bottom {
+  height: 10vh;
+  min-height: 92px;
+}
+
+.col-lg-12 {
+  padding: 0 !important;
+}
+
+row:last-child {
+  min-height: inherit;
+}
+
+
