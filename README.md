@@ -1,7 +1,7 @@
 Instructions for running:
   Create a folder for the cloning of the repo.
-  run install npm
-  run npm start
+  run npm install.
+  run npm start.
 
 
 
